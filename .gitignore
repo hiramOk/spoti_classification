@@ -1,0 +1,10 @@
+/ids/__pycache__
+/ids/.ipynb_checkpoints
+/data/.ipynb_checkpoints
+/spoti_model
+.ipynb_checkpoints
+.git
+.gitignore.swp
+*~
+*.swp
+*.swo
